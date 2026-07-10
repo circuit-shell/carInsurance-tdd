@@ -35,5 +35,3 @@ This project uses the following technologies.
 
 - Site: [adrio.now.sh](https://adrio.now.sh/)
 - [LinkedIn](https://www.linkedin.com/in/adrio1992/)
-
-# Developed in 🇲🇽🇲🇽🇲🇽 by Armando del Río (SPECTER-B)
