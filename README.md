@@ -30,8 +30,3 @@ This project uses the following technologies.
   ```
   yarn start
   ```
-
-## Contact me!
-
-- Site: [adrio.now.sh](https://adrio.now.sh/)
-- [LinkedIn](https://www.linkedin.com/in/adrio1992/)
